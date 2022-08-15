@@ -1,0 +1,15 @@
+   60  cd c:/RajB*/Challenge-20
+   61  git config --global user.name Raj Tolani
+   62  git config --global user.email admin@tolanicollection.com
+   63  git clone https://github.com/rajtolani/Challenge20-SmartContracts.git
+   64  git status
+   65  cd Ch*
+   66  git status
+   67  git add .
+   68  git status
+   69   git commit -m "Final Submission of all code, Readme File and Screenshots"
+   70  git push
+   71  history
+   72  history 14
+   73  history >terminal_history.txt
+   74  history 15 > terminal_history.txt
